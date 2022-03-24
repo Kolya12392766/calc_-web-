@@ -1,3 +1,7 @@
 # calc_-web-
 run:start.bat
-me use "pywebio"
+# what me use
+me use "pywebio", editor "pycharm"
+# what is "python"
+I'm just learning python
+
