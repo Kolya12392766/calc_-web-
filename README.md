@@ -2,6 +2,6 @@
 run:start.bat
 # what me use
 me use "pywebio", editor "pycharm"
-# what is "python"
+#why did I use "python"
 I'm just learning python
 
